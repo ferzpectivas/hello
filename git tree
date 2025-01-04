@@ -1,0 +1,41 @@
+[33mcommit 6e4a4264d48e81de7224efd89cfb6287ce720b08[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mlogin[m[33m)[m
+Author: Ferzpectivas <ferzpectivas@gmail.com>
+Date:   Sat Jan 4 10:14:12 2025 -0300
+
+    git 3 v2
+
+[33mcommit 2bf6875a6ab3b4538d877405e942b10f6755fbee[m
+Author: Ferzpectivas <ferzpectivas@gmail.com>
+Date:   Sat Jan 4 10:07:41 2025 -0300
+
+    Login
+
+[33mcommit f5c53ef61d019a0641511c4cb0604c23b386eeef[m
+Author: Ferzpectivas <ferzpectivas@gmail.com>
+Date:   Fri Jan 3 21:28:22 2025 -0300
+
+    Este es mi quinto commit
+
+[33mcommit b047ee6de0eb461f41ffc47397a6e3db33c12d72[m[33m ([m[1;33mtag: [m[1;33mclase_1[m[33m, [m[1;32mmain[m[33m)[m
+Author: Ferzpectivas <ferzpectivas@gmail.com>
+Date:   Fri Jan 3 17:26:45 2025 -0300
+
+    se añade el .gitignore
+
+[33mcommit b07a862ba854c802dcd44825e2c0ccee1b5c5cce[m
+Author: Ferzpectivas <ferzpectivas@gmail.com>
+Date:   Thu Dec 19 21:27:07 2024 -0300
+
+    Se actualiza el texto del print
+
+[33mcommit 8fc4fa68790982d631ae9c58d2025f77333fac81[m
+Author: Ferzpectivas <ferzpectivas@gmail.com>
+Date:   Thu Dec 19 20:49:08 2024 -0300
+
+    Este es mi segundo commit
+
+[33mcommit 2d473de5d25716f5028261850591970cf33624a6[m
+Author: Ferzpectivas <ferzpectivas@gmail.com>
+Date:   Mon Dec 16 22:18:26 2024 -0300
+
+    Este es mi primer commit
